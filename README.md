@@ -16,5 +16,5 @@ A simple program to keep track of user tasks
 Enjoy!
 
 
-### Credits
+## Credits
 I built this from scratch myself after learning Python through HyperionDev
