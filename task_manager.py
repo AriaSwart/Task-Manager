@@ -342,7 +342,8 @@ e - exit
         login()
 
     elif menu == 'e':
-        print('Goodbye!!!')
+        print('''Thank you for using Task Manager
+    Til next time!''')
         exit()
 
     else:
