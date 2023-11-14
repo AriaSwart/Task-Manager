@@ -284,6 +284,10 @@ def login():
     return (username)
 
 #====Interface Section=========
+print('''Welcome to Task Manager!
+    Please Log in to continue
+    -----------------------------''')
+
 username = login()
 while True:
     # Present the menu to the user and 
